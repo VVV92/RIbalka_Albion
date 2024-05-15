@@ -2,6 +2,7 @@ import pyautogui,pyaudio,audioop,threading,time,win32api,configparser,mss,mss.to
 from dearpygui.core import *
 from dearpygui.simple import *
 import random
+# КУЧУ ОШИБОК
 
 #Loads Settings
 parser = configparser.ConfigParser()
